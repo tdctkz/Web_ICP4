@@ -1,29 +1,30 @@
-/*Name this external file hover_css.css*/
-body{
+body {
     margin: 2%;
     border: 1px solid black;
     background-color: antiquewhite;
 }
-#image{
-    line-height:450px;
+
+#image {
+    line-height: 450px;
     width: 575px;
     height: 450px;
-    border:5px solid black;
-    margin:0 auto;
+    border: 5px solid black;
     background-color: peachpuff;
     background-image: url('');
     background-repeat: no-repeat;
-    color:#FFFFFF;
+    color: #FFFFFF;
     text-align: center;
     background-size: 100%;
-    margin-bottom:25px;
-    font-size: 150%;
+    margin: 0 auto 25px;
+    font-size: 250%;
 }
-.preview{
-    width:10%;
-    margin-left:17%;
+
+.preview {
+    width: 10%;
+    margin-left: 17%;
     border: 10px solid black;
 }
-img{
-    width:95%;
+
+img {
+    width: 95%;
 }
