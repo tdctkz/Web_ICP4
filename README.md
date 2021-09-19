@@ -1,2 +1,2 @@
 # Web_ICP4
-## Jquery, Javascript
+## jQuery, Javascript
